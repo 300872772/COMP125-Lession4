@@ -1,3 +1,3 @@
-# COMP125-Lession4
+# COMP125-Lesson4
 
-## This is a read me file
+## A project to demonstrate debugging techniques for COMP125 @ Centennial
